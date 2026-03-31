@@ -51,8 +51,11 @@ I specialize in building functional, high-performance web applications. My backg
 
 ### 📊 GitHub Insights
 
-![Bamise's Stats](https://github-readme-stats.vercel.app/api?username=origboge&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=origboge&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Bamise's Stats](https://github-readme-stats-fast.vercel.app/api?username=Origboge&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Origboge&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Origboge&theme=tokyonight&hide_border=true&background=0D1117)
 
 ---
 
