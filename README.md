@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hi, I'm Bamise Akinfiresoye
 
-<!--
-**Origboge/Origboge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Scientific Officer | Analytical Problem Solver
 
-Here are some ideas to get you started:
+I specialize in building functional, high-performance web applications. My background as a Scientific Officer gives me a unique perspective on analytical rigor, which I apply to every line of code I write. From Web3 hubs to government initiatives, I build with purpose.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 My Tech Stack
+
+**Frontend & Logic**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Backend & Database**
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodesotjs&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+* **🏠 [Dwelgo Properties](https://www.dwelgo.ng/)**
+    * A real estate solution focused on solving home hunting problems.
+    * *Tech:* React, TypeScript, Tailwind, MongoDB.
+* **♻️ [FMYD Circular Economy](https://wastetowealthfmyd.com.ng/)**
+    * A youth empowerment initiative transforming waste into eco-friendly products.
+    * *Tech:* React, Firebase, Tailwind CSS.
+* **🎓 [Mike Flora Schools](https://origboge.github.io/MIKEFLORA/)**
+    * A minimalist, user-friendly school portal for nursery and primary education.
+    * *Tech:* React, Vite, CSS.
+* **🌐 [The Support System](https://thesupportsystem.vercel.app/)**
+    * A hub for Web3 creators and builders to grow and collaborate.
+    * *Tech:* React, Vite, CSS.
+* **✍️ [Writer's Portfolio](https://ajah101.vercel.app/)**
+    * A professional showcase for writers to display their services and works.
+    * *Tech:* React, Vite.
+
+---
+
+### 📊 GitHub Insights
+
+![Bamise's Stats](https://github-readme-stats.vercel.app/api?username=origboge&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=origboge&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+---
+
+### 📫 Connect with Me
+
+| Platform | Link |
+| :--- | :--- |
+| 📧 **Email** | [origboge@gmail.com](mailto:origboge@gmail.com) |
+| 💼 **LinkedIn** | [bamise-akinfiresoye-3b645a174](https://linkedin.com/in/bamise-akinfiresoye-3b645a174) |
+| 🐦 **X (Twitter)** | [@origboge](https://x.com/origboge) |
+| 📞 **Phone** | [+234 903 481 6423](tel:+2349034816423) |
+| 🌐 **Portfolio** | [origboge.vercel.app](https://origboge.vercel.app) |
+
+---
+*"Methodical in science, creative in code."*
